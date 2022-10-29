@@ -1,0 +1,7 @@
+<html>
+	<h1>Blog</h1>
+	<h3>Who am i?</h3>
+	<p>I'm Luka Petrovic, and i was born in 18th may 2009. I was a really kind kid, and so am I today. I'm 5.6' tall
+	and i love to share my life with other peaople. Enjoy!</p>
+	<h3>My personality.</h3>
+</html>
